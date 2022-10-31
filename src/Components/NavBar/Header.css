@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color:grey;
+    color: white;
+    text-decoration: none;
+    
+
+}
+
+img{
+    width: 10%;
+    
+}
+.texto{
+    align-items: center;
+    text-align: center;
+   
+    
+}
+
+a{
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    
+
+}
