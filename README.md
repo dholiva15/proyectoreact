@@ -1,3 +1,17 @@
+Se aplica lo aprendido en la clase de Coderhouse comision 38890. 
+Corresponde a un app de ecomerce, sencilla.
+
+Se puede realizar las siguientes acciones
+
+- Navegar por los distintos categorias de producto.
+- En cada categoria se puede seleccionar el producto y cantidad de esa categoria/producto
+- Se puede elegir y tomarlo al carrito de compra
+- Se pueden borrar los items del carrito de compra
+- Se puede vaciar el carrito de compra
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
